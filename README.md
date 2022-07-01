@@ -1,11 +1,12 @@
+# Student database
 This repository consists of the project that is based on the JSONPOWERDB ,based on all the CRUD operations in JSONpowerDB that i learned from login2explore are implemented in this project.
 If find any changes in this project ,happy to let me know them
 
-->About JsonPowerDB:
+### About JsonPowerDB:
 
 JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
 
-->Benefits of using JsonPowerDB:
+### Benefits of using JsonPowerDB:
 
 -The easiest approach to get data in JSON format is to use an in-memory database that is schema-free, simple to use, and nimble.
 
@@ -15,7 +16,17 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 *It facilitates quicker coding, which lowers development costs.
 
-screenshots:
+
+### Requirments:
+  
+  *VScode/netbeans/e.t.c
+  
+  *Browser(chrome/firefox/edge)
+  
+  *JsonpowerDB connection Token
+  
+  
+### screenshots:
 ![Screenshot (142)](https://user-images.githubusercontent.com/94558587/176748197-8f9520b4-c70f-4bf1-8a12-e65ef6993434.png)
 ![Screenshot (137)](https://user-images.githubusercontent.com/94558587/176748231-a2f746de-5485-491e-934c-41b7136a0ede.png)
 ![Screenshot (135)](https://user-images.githubusercontent.com/94558587/176748253-92757f3c-585b-4e64-a135-676410ca7048.png)
